@@ -1,18 +1,25 @@
 # Javascript_30_days
-Projects created from Javascript 
 
-## 01 Drum Kit
+Projects created using vanilla JavaScript
 
+## [01 Drum Kit]()
+
+Create a keyboard drumkit
 - HTML
 - CSS
 - JavaScript
 - jQuery
 
-## 02 CSS and JS Clock
+
+## [02 CSS and JS Clock]()
+
+An Analogue clock
+- HTML
+- CSS
+- JavaScript
 
 
-
-## 03 Playing with CSS variabls and JS
+## 03 Playing with CSS variables and JS
 
 ## 04 Array Cardio Day 1
 
