@@ -1,0 +1,101 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html {
+  padding: 0;
+  margin: 0;
+  background: #018ded url(http://unsplash.it/1500/1000?image=881&blur=50);
+  background-size: cover;
+  font-size: 10px;
+  text-align: center;
+}
+body {
+  display: flex;
+  height: 100vh;
+  flex-flow: row nowrap;
+  align-items: center;
+  overflow: hidden;
+}
+
+.title {
+  color: white;
+  position: relative;
+  padding: 10px 20px;
+}
+.clock {
+  position: relative;
+  border-radius: 50%;
+  margin: 0 auto;
+  border: 20px solid white;
+  height: 30rem;
+  width: 30rem;
+  box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.1), 0 0 4px black, inset 0 0 8px black,
+    inset 0 0 0 5px rgba(0, 0, 0, 0.3);
+  padding: 2rem;
+}
+.clock-numbers {
+  color: white;
+  margin: 0;
+  text-align: center;
+
+
+}
+.twelve {
+  color: white;
+  font-size: 3rem;
+  margin-top: 1%;
+
+}
+.three{
+  color: white;
+  font-size: 3rem;
+  text-align:right;
+  margin-top: 30%;
+}
+.six {
+  color: white;
+  font-size: 3rem;
+  margin-top: 35%;
+
+}
+.nine {
+  color: white;
+  font-size: 3rem;
+  text-align:left;
+  margin-top: -55%;
+  position: relative;
+
+}
+.clock-face {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.hand {
+  position: absolute;
+  left: 50%;
+  bottom: 50%;
+  height: 50%;
+  transition: transform 0.05s cubic-bezier(0, 2, 0.5, 1);
+  transform-origin: 50% 100%;
+}
+
+.hand::before {
+  content: "";
+  display: block;
+  position: relative;
+  bottom: 0;
+  border-radius: 42.5%;
+  border: 3px solid black;
+  height: 100%;
+}
+
+.hour-hand {
+  height: 37.5%;
+}
+
+.second-hand::before {
+  border: 2px solid red;
+}
