@@ -1,25 +1,22 @@
 # Javascript_30_days
 
-Projects created using vanilla JavaScript
+Projects created using html, css and javascript.
 
 ## [01 Drum Kit](https://github.com/malevolentninja/MyJavascript30/tree/master/01_JavaScript_DrumKit)
-
-Create a keyboard drumkit
-- HTML
-- CSS
-- JavaScript
-- jQuery
-
+Create a keyboard drumkit:
+[Demo](https://codepen.io/malevolentninja/pen/RjRLRB)
+[Blog](https://urbanwudangwarrior.wordpress.com/2017/11/07/day-01-keyboard-drumkit/)
 
 ## [02 CSS and JS Clock](https://github.com/malevolentninja/MyJavascript30/tree/master/02_JS_Clock)
-
-An Analogue clock
-- HTML
-- CSS
-- JavaScript
+An Analogue clock:
+[Demo](https://codepen.io/malevolentninja/pen/jaVLZx)
+[Blog](https://wordpress.com/post/urbanwudangwarrior.wordpress.com/1112)
 
 
 ## [03 Playing with CSS variables and JS](https://github.com/malevolentninja/MyJavascript30/tree/master/03_CSS_Variables)
+CSS Variables creating blur, spacing and colour:
+[Demo](https://codepen.io/malevolentninja/pen/rYjQVe)
+[Blog](https://urbanwudangwarrior.wordpress.com/2017/11/09/day-3-css-variables/)
 
 ## 04 Array Cardio Day 1
 
