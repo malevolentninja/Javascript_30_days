@@ -2,7 +2,7 @@
 
 Projects created using vanilla JavaScript
 
-## [01 Drum Kit]()
+## [01 Drum Kit](https://github.com/malevolentninja/MyJavascript30/tree/master/01_JavaScript_DrumKit)
 
 Create a keyboard drumkit
 - HTML
@@ -11,7 +11,7 @@ Create a keyboard drumkit
 - jQuery
 
 
-## [02 CSS and JS Clock]()
+## [02 CSS and JS Clock](https://github.com/malevolentninja/MyJavascript30/tree/master/02_JS_Clock)
 
 An Analogue clock
 - HTML
@@ -19,7 +19,7 @@ An Analogue clock
 - JavaScript
 
 
-## 03 Playing with CSS variables and JS
+## [03 Playing with CSS variables and JS](https://github.com/malevolentninja/MyJavascript30/tree/master/03_CSS_Variables)
 
 ## 04 Array Cardio Day 1
 
