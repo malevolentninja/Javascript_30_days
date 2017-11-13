@@ -23,7 +23,9 @@ CSS Variables creating blur, spacing and colour:
 
 
 ## 05 Flex Panels Image Gallery
+Working with flexbox:
 
+* [Demo](https://codepen.io/malevolentninja/pen/pdwwQM)
 
 ## 06 Ajax Type Ahead
 
