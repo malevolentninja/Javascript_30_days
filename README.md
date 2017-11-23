@@ -19,13 +19,14 @@ CSS Variables creating blur, spacing and colour:
 * [Blog](https://urbanwudangwarrior.wordpress.com/2017/11/09/day-3-css-variables/)
 
 ## [04 Array Cardio Day 1](https://github.com/malevolentninja/MyJavascript30/tree/master/04_Array_Cardio)
-
+* [Blog](https://wordpress.com/post/urbanwudangwarrior.wordpress.com/1552)
 
 
 ## 05 Flex Panels Image Gallery
 Working with flexbox:
 
 * [Demo](https://codepen.io/malevolentninja/pen/pdwwQM)
+* [Blog](urbanwudangwarrior.wordpress.com/2017/11/13/day-05-flexbox/)
 
 ## 06 Ajax Type Ahead
 
